@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "libertalia-estate-agency",
+  "private_key_id": "2901a5de6cf37d6092a1ff8aa6cf92a4c7411c89",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDD1m7KkLT2JKrp\nt/JO/pPTe7LPMuSpShDgOx4qp6ZCyrQan0Guw+eohB8CW7J9uohkJSlE83nZCpyi\nTafnPs9DPwuod5n35A/2p1M0Df0KFUMPWa3Uiq4HiOj0Y+ZcWL34XjqDRpLR63Kd\nGHmLBRTLYZ/Sse+jtG8Yh4E2k3Rs/Tb87T5VhMuTCoBG6EuyC64PTMOQ5KXF0mYW\nLAyYFFoaML3gMnFiXQPLdLFKS/J+C3Hv8hPXKFNK165Uggo4fOd1MXHzCz8PhdO1\nJ1ZTOxt5YU9WVbhvC0YqIICSwQZC6X6pi0z4GvxGpghZ46js8Cc1+bgnPY3CZ0BZ\n5pvX+56xAgMBAAECggEAMMKLvFDSVbTkfyPHJ4b4TIAwkalUyJfB4uqlRK6QVXH9\n7OD5LCfn3ovi4qXtJ6PRgMnF4D6U+IbNYBXgt9FqLo6cevooclGs7ddUfpH7Dk8j\n7sb/4nsTAJpEklDrUtPfnN7tR7FDLhQm6dllrcj6l/b7Ia0fAw4SWTOn5uxI4Tes\n1TE4mWgllyZH3Ob692tuBnHvpGk7WRjJIXpKJUNHjCwMTBPgIbJOpYFMTJspJsFN\nA8Y6t9SZnRwoSiVTRtiHCcQWTMRvpOQDJRRW/LAQvCS/TmEBvnpPo9Zk+FtEnbOX\nuVGH7USDbdH5MRTXTMnOt+PlwpGjEzvXu+IbT6XQ3wKBgQD0OsFZEPgRoAAT3w11\nIQhWZCj0ZkQS6biBPFHNmCuM/7RWMTnCv+sD6uSG0GZfn9su70VHZQGjsUIKQ7W9\nnfS2dFlODyY9X7xFyR/4s1SeDJyYcKSU6cpcc1/Y1iaxCVzdUht31diI8E2zmDx5\nhf4Jt6TakHrVxVZIjn745Bg9wwKBgQDNRqFQGwye2bKbG6ZIe8ex6WiqXP9qXrcT\nQwXXznm8dWJ43FEbrXWwVqsbQHYN9m2jstj0W2HBMwf/Sl+qCO2u7IKCpvC6ODix\nQmEmpqtQPv03zyJyw6eH3n3PDHJXyFQm9KAkWV/1NfURkZ8lhiofqcuQUpxRgxqR\n5qCPUnkmewKBgQDL7St4dSTNgq3N6ddQz+4oRKW1vJZmvGTk9DrR0pe6ueAYgC3c\noWdY9A8xSl3Qxqe7fup3/Kzrw5yC+ZqM45Frr6bJ+PhTEtcf5hoeDY9AEQPIfXXP\nKY9gtq13XwkbldfGrUJmQ1b0sMIQjbMhPXKrJn4uSalnSckL+H+ozrw3BQKBgGeX\nejbDv8W2VPUDqhGwLaGyCbjXv6m9bKRS0XML5tFdZ7lYbbILAnZf9m+FQ05eiwvu\naKBAMX/fMez6anaTlOcOwfoPJzLCxpFlz0NDHvcbIox0gozqAfSGKnU/ccCs/xK9\npsdRNyS2+xrHo0m7gCyEco89sVdNUy5H9cT+ONdbAoGAQl1KyOsMJyqXORxwQWUM\nuTDlh6WiqT2fsb9EUvGJjul9FoZvfEPn1+dsfX247kjIRzBsfseoPTq+MfLJ4C+i\nCK2V06lnM1dryrfdGqwE65Z34Dx1M8GvOZNULGPiTH5Iq40sUC1LuhNsvChxHm1h\nNf1nKz58rYQlCC2Rib4/190=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xngtd@libertalia-estate-agency.iam.gserviceaccount.com",
+  "client_id": "114941092152522391973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xngtd%40libertalia-estate-agency.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

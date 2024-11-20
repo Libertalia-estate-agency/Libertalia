@@ -1,0 +1,11 @@
+{
+  "name": "firestore-excel-import",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^12.4.0",
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
